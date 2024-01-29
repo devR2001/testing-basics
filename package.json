@@ -1,8 +1,6 @@
 {
-  "name": "basics",
+  "name": "testing-basics",
   "version": "1.0.0",
-  "description": "Testing - Basics",
-  "author": "Fullstack.io",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -13,8 +11,9 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
     "bootstrap": "^5.0.2",
+    "core-js": "^3.6.5",
+    "stream": "^0.0.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
